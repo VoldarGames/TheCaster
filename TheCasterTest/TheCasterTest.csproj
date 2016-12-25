@@ -61,9 +61,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CasterCore\CasterCore.csproj">
+    <ProjectReference Include="..\CasterCore\TheCasterCore.csproj">
       <Project>{24779C55-A30D-48BA-B519-59622AABF7C9}</Project>
-      <Name>CasterCore</Name>
+      <Name>TheCasterCore</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

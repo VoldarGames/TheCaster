@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCasterTest", "TheCasterTest\TheCasterTest.csproj", "{650304B3-19FF-4B56-8C8E-47B8F75F8CA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasterCore", "CasterCore\CasterCore.csproj", "{24779C55-A30D-48BA-B519-59622AABF7C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCasterCore", "CasterCore\TheCasterCore.csproj", "{24779C55-A30D-48BA-B519-59622AABF7C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

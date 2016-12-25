@@ -7,8 +7,8 @@
     <ProjectGuid>{24779C55-A30D-48BA-B519-59622AABF7C9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CasterCore</RootNamespace>
-    <AssemblyName>CasterCore</AssemblyName>
+    <RootNamespace>TheCasterCore</RootNamespace>
+    <AssemblyName>TheCasterCore</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
